@@ -1,0 +1,17 @@
+{
+  "about-us": {
+    "defaultMessage": "About us"
+  },
+  "hello-world": {
+    "defaultMessage": "Hello World!"
+  },
+  "homepage": {
+    "defaultMessage": "Homepage"
+  },
+  "learn-more-about-us": {
+    "defaultMessage": "Learn more about us"
+  },
+  "welcome-on-our-website": {
+    "defaultMessage": "Welcome on our multi-language website"
+  }
+}
